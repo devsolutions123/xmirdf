@@ -1,0 +1,1108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_OFrEgMCaEemEJcXpCGj6gw" guid="_OFrEgMCaEemEJcXpCGj6gw">
+    <resourceDescriptors xmi:id="_BpNFwCRQEeq8l-0LTRH7AQ" id="-fo2ZRlbcy7w7JlDHbJb5Yw" uri="customcategories/overview.xmi"/>
+    <resourceDescriptors xmi:id="_k16lsCnjEeqnTbsZNHXyXw" id="-3ClA2Un2TOWOKFipVPnmMw" uri="customcategories/purpose.xmi"/>
+    <resourceDescriptors xmi:id="_RRtsoCnrEeqnTbsZNHXyXw" id="-fxZmDloHYMa41JT3jHuCJQ" uri="guidances/concepts/objectives.xmi"/>
+    <resourceDescriptors xmi:id="_7h53oCnyEeqnTbsZNHXyXw" id="-N6Q-oNciradUHp2VqCvp9g" uri="customcategories/objectives.xmi"/>
+    <resourceDescriptors xmi:id="_kutLoCn9EeqnTbsZNHXyXw" id="-Zl13WDXzUVYC5vdDHX-kUg" uri="guidances/concepts/profession.xmi"/>
+    <resourceDescriptors xmi:id="_4kA3oCpJEeqJqa-iUQrjOA" id="-de8fcYL1oSiPb0LRiDrwIQ" uri="customcategories/profession.xmi"/>
+    <resourceDescriptors xmi:id="_aUO-8CpMEeqJqa-iUQrjOA" id="-dKwMe_TxmkSgHhJKUmxYsw" uri="guidances/concepts/adoption.xmi"/>
+    <resourceDescriptors xmi:id="_Z896MCpnEeqJqa-iUQrjOA" id="-gS9L0aW7PWf0yhvuw013-g" uri="customcategories/adoption.xmi"/>
+    <resourceDescriptors xmi:id="_146Y8CptEeqJqa-iUQrjOA" id="--JJ-70pK87XJM1BDXjl3og" uri="guidances/concepts/customization.xmi"/>
+    <resourceDescriptors xmi:id="_nzRXICpxEeqJqa-iUQrjOA" id="-nhNaORXdr41XamLrHMlwsQ" uri="customcategories/customization.xmi"/>
+    <resourceDescriptors xmi:id="_G4EE4CpyEeqJqa-iUQrjOA" id="-_35xtK6yYRrWlHajnOWo6Q" uri="guidances/concepts/community.xmi"/>
+    <resourceDescriptors xmi:id="_siY_YCp2EeqJqa-iUQrjOA" id="-NL_OqWvmVMThBla8u5Eqog" uri="customcategories/community.xmi"/>
+    <resourceDescriptors xmi:id="_c75JoCqMEeqJqa-iUQrjOA" id="-HMSo4hMieUCgxQNooTezlw" uri="customcategories/contents.xmi"/>
+    <resourceDescriptors xmi:id="_JXyJcCqPEeqJqa-iUQrjOA" id="-QB4uH97xnJY_oRfsg8KQeA" uri="guidances/concepts/metamodel.xmi"/>
+    <resourceDescriptors xmi:id="_NeVq8CqWEeqJqa-iUQrjOA" id="-y-zSJh9cXoKSiUzkO0kTVA" uri="guidances/concepts/structure.xmi"/>
+    <resourceDescriptors xmi:id="_DggYwCqqEeqJqa-iUQrjOA" id="-BfYJu8MHJfKcuM8lcYlARg" uri="guidances/concepts/components.xmi"/>
+    <resourceDescriptors xmi:id="_TqXCICqzEeqUTZ_iLgxpGw" id="-3dygNUi2bbcdn3Q7-cNC4Q" uri="customcategories/structure.xmi"/>
+    <resourceDescriptors xmi:id="_X4xt4Cq0EeqUTZ_iLgxpGw" id="-0CBLmcri38c8BpEDwifLHQ" uri="customcategories/components.xmi"/>
+    <resourceDescriptors xmi:id="_DXQ00Cq4EeqUTZ_iLgxpGw" id="-YN5TGUpsnKAax2iCfSntzA" uri="guidances/concepts/dependencies.xmi"/>
+    <resourceDescriptors xmi:id="_XNSkECq4EeqUTZ_iLgxpGw" id="-9No37XcCUP00x_AnFTX0wg" uri="guidances/concepts/sources.xmi"/>
+    <resourceDescriptors xmi:id="_0L6IICq7EeqUTZ_iLgxpGw" id="-FWqbfXxjFQj7ndnSWISNvQ" uri="customcategories/dependencies.xmi"/>
+    <resourceDescriptors xmi:id="_rIs-ECrCEeqUTZ_iLgxpGw" id="-X_JmqCTPFGjXkZK6uKGs2A" uri="guidances/concepts/licenses.xmi"/>
+    <resourceDescriptors xmi:id="_sD6-oCsOEeqEwL-I9ZZdpA" id="-NTHiTSHilRqFf7oYvfYvQw" uri="customcategories/methodology.xmi"/>
+    <resourceDescriptors xmi:id="_niv1UCsVEeqEwL-I9ZZdpA" id="-n5dCCVizm3vQ35MXNq-8gA" uri="customcategories/metamodel.xmi"/>
+    <resourceDescriptors xmi:id="_niy4oCsVEeqEwL-I9ZZdpA" id="-pKk1qrkqOLoIAhrCp9P9vg" uri="customcategories/sources.xmi"/>
+    <resourceDescriptors xmi:id="_ni178CsVEeqEwL-I9ZZdpA" id="-nA3OdVIrSA0ccA97XKpbaw" uri="customcategories/licenses.xmi"/>
+    <resourceDescriptors xmi:id="_ni4YMCsVEeqEwL-I9ZZdpA" id="-mV-VCMA2fejbbTCGo8fUqg" uri="customcategories/references.xmi"/>
+    <resourceDescriptors xmi:id="_ni60cCsVEeqEwL-I9ZZdpA" id="-2vfstflERMEMix8a0B3mUA" uri="customcategories/editing.xmi"/>
+    <resourceDescriptors xmi:id="_ni9QsCsVEeqEwL-I9ZZdpA" id="-0l24qm8zEWYqPewN-XPyhw" uri="customcategories/contribution.xmi"/>
+    <resourceDescriptors xmi:id="_uEMJECsVEeqEwL-I9ZZdpA" id="-VV-ZwdkYCDT_Ql0hTlopEw" uri="customcategories/authors.xmi"/>
+    <resourceDescriptors xmi:id="_p_1-gCtEEeqEwL-I9ZZdpA" id="-zexDzq6xjzDq0gtu_-A9jw" uri="guidances/concepts/references.xmi"/>
+    <resourceDescriptors xmi:id="_e8rH0CtLEeqEwL-I9ZZdpA" id="-m91q3BbiIWSeHpekDBIShg" uri="guidances/concepts/editing.xmi"/>
+    <resourceDescriptors xmi:id="_lEVooCtWEeqEwL-I9ZZdpA" id="-yeWwxkL0JLffaSkgd_tClQ" uri="guidances/concepts/contribution.xmi"/>
+    <resourceDescriptors xmi:id="_-HEJcCtaEeqEwL-I9ZZdpA" id="-U_2ky3bQNorT2jMdaG5chg" uri="guidances/concepts/authors.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_OFbM4MCaEemEJcXpCGj6gw" name="BTM_001" guid="_OFbM4MCaEemEJcXpCGj6gw">
+    <methodElementProperty xmi:id="_OFsSoMCaEemEJcXpCGj6gw" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_OFbM4cCaEemEJcXpCGj6gw" name="Content" guid="_OFbM4cCaEemEJcXpCGj6gw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_OFbM4sCaEemEJcXpCGj6gw" name="Categories" guid="_OFbM4sCaEemEJcXpCGj6gw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_OFbM48CaEemEJcXpCGj6gw" name="Domains" guid="_OFbM48CaEemEJcXpCGj6gw">
+          <contentElements xsi:type="org.eclipse.epf.uma:Domain" xmi:id="_9MGbIMCgEemEJcXpCGj6gw" name="fabric" guid="_9MGbIMCgEemEJcXpCGj6gw" presentationName="Fabric">
+            <methodElementProperty xmi:id="_9a_LsMCgEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <subdomains xmi:id="_-QpoYMCgEemEJcXpCGj6gw" name="governance" guid="_-QpoYMCgEemEJcXpCGj6gw" presentationName="Governance">
+              <methodElementProperty xmi:id="_-fadIMCgEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+            <subdomains xmi:id="__fokAMCgEemEJcXpCGj6gw" name="compliance" guid="__fokAMCgEemEJcXpCGj6gw" presentationName="Compliance">
+              <methodElementProperty xmi:id="__wpbgMCgEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+            <subdomains xmi:id="_AjOvAMChEemEJcXpCGj6gw" name="architecture" guid="_AjOvAMChEemEJcXpCGj6gw" presentationName="Architecture">
+              <methodElementProperty xmi:id="_Av7HMMChEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+            <subdomains xmi:id="_BsEmYMChEemEJcXpCGj6gw" name="security" guid="_BsEmYMChEemEJcXpCGj6gw" presentationName="Security">
+              <methodElementProperty xmi:id="_B5f-YMChEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+            <subdomains xmi:id="_vmGqEMChEemEJcXpCGj6gw" name="platform" guid="_vmGqEMChEemEJcXpCGj6gw" presentationName="Platform">
+              <methodElementProperty xmi:id="_vze-wMChEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Domain" xmi:id="_w4SDoMChEemEJcXpCGj6gw" name="team" guid="_w4SDoMChEemEJcXpCGj6gw" presentationName="Team">
+            <methodElementProperty xmi:id="_xG8xwMChEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <subdomains xmi:id="_x52OUMChEemEJcXpCGj6gw" name="people" guid="_x52OUMChEemEJcXpCGj6gw" presentationName="People">
+              <methodElementProperty xmi:id="_yFVsoMChEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+            <subdomains xmi:id="_y3neIMChEemEJcXpCGj6gw" name="project" guid="_y3neIMChEemEJcXpCGj6gw" presentationName="Project">
+              <methodElementProperty xmi:id="_zEv7MMChEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+            <subdomains xmi:id="_zzFA0MChEemEJcXpCGj6gw" name="agility" guid="_zzFA0MChEemEJcXpCGj6gw" presentationName="Agility">
+              <methodElementProperty xmi:id="_z_MKMMChEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+            <subdomains xmi:id="_07wgIMChEemEJcXpCGj6gw" name="engineering" guid="_07wgIMChEemEJcXpCGj6gw" presentationName="Engineering">
+              <methodElementProperty xmi:id="_1I1S0MChEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+            <subdomains xmi:id="_2AUUcMChEemEJcXpCGj6gw" name="integration" guid="_2AUUcMChEemEJcXpCGj6gw" presentationName="Integration">
+              <methodElementProperty xmi:id="_2NrbAMChEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Domain" xmi:id="_3HW1AMChEemEJcXpCGj6gw" name="outcome" guid="_3HW1AMChEemEJcXpCGj6gw" presentationName="Outcome">
+            <methodElementProperty xmi:id="_3VafIMChEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <subdomains xmi:id="_4Z6pEMChEemEJcXpCGj6gw" name="value" guid="_4Z6pEMChEemEJcXpCGj6gw" presentationName="Value">
+              <methodElementProperty xmi:id="_4ksVsMChEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+            <subdomains xmi:id="_5Y_gcMChEemEJcXpCGj6gw" name="process" guid="_5Y_gcMChEemEJcXpCGj6gw" presentationName="Process">
+              <methodElementProperty xmi:id="_5nXToMChEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+            <subdomains xmi:id="_6aJbcMChEemEJcXpCGj6gw" name="rule" guid="_6aJbcMChEemEJcXpCGj6gw" presentationName="Rule">
+              <methodElementProperty xmi:id="_6kd1EMChEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+            <subdomains xmi:id="_7Q6EUMChEemEJcXpCGj6gw" name="data" guid="_7Q6EUMChEemEJcXpCGj6gw" presentationName="Data">
+              <methodElementProperty xmi:id="_7gTLMMChEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+            <subdomains xmi:id="_8e_BAMChEemEJcXpCGj6gw" name="intelligence" guid="_8e_BAMChEemEJcXpCGj6gw" presentationName="Intelligence">
+              <methodElementProperty xmi:id="_8rl5oMChEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Domain" xmi:id="_nytw0MCiEemEJcXpCGj6gw" name="business" guid="_nytw0MCiEemEJcXpCGj6gw" presentationName="Business">
+            <methodElementProperty xmi:id="_oB4OMMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <subdomains xmi:id="_tK1FAMCiEemEJcXpCGj6gw" name="strategy" guid="_tK1FAMCiEemEJcXpCGj6gw" presentationName="Strategy">
+              <methodElementProperty xmi:id="_tX_XQMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+            <subdomains xmi:id="_uKmf8MCiEemEJcXpCGj6gw" name="marketing" guid="_uKmf8MCiEemEJcXpCGj6gw" presentationName="Marketing">
+              <methodElementProperty xmi:id="_uYZEUMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+            <subdomains xmi:id="_vHNSIMCiEemEJcXpCGj6gw" name="operation" guid="_vHNSIMCiEemEJcXpCGj6gw" presentationName="Operation">
+              <methodElementProperty xmi:id="_vT8GkMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+            <subdomains xmi:id="_wG3YUMCiEemEJcXpCGj6gw" name="innovation" guid="_wG3YUMCiEemEJcXpCGj6gw" presentationName="Innovation">
+              <methodElementProperty xmi:id="_wRi-UMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+            <subdomains xmi:id="_xARFgMCiEemEJcXpCGj6gw" name="performance" guid="_xARFgMCiEemEJcXpCGj6gw" presentationName="Performance">
+              <methodElementProperty xmi:id="_xPvr8MCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Domain" xmi:id="_o60BUMCiEemEJcXpCGj6gw" name="management" guid="_o60BUMCiEemEJcXpCGj6gw" presentationName="Management">
+            <methodElementProperty xmi:id="_pGshMMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <subdomains xmi:id="_yKcZoMCiEemEJcXpCGj6gw" name="talent" guid="_yKcZoMCiEemEJcXpCGj6gw" presentationName="Talent">
+              <methodElementProperty xmi:id="_yXBdEMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+            <subdomains xmi:id="_zIiZkMCiEemEJcXpCGj6gw" name="learning" guid="_zIiZkMCiEemEJcXpCGj6gw" presentationName="Learning">
+              <methodElementProperty xmi:id="_zUr_MMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+            <subdomains xmi:id="_0GblMMCiEemEJcXpCGj6gw" name="change" guid="_0GblMMCiEemEJcXpCGj6gw" presentationName="Change">
+              <methodElementProperty xmi:id="_0T7OoMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+            <subdomains xmi:id="_1R1oYMCiEemEJcXpCGj6gw" name="leadership" guid="_1R1oYMCiEemEJcXpCGj6gw" presentationName="Leadership">
+              <methodElementProperty xmi:id="_1gJKIMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+            <subdomains xmi:id="_2WdHEMCiEemEJcXpCGj6gw" name="entrepreneurship" guid="_2WdHEMCiEemEJcXpCGj6gw" presentationName="Entrepreneurship">
+              <methodElementProperty xmi:id="_2jqcoMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Domain" xmi:id="_r-8gsMCiEemEJcXpCGj6gw" name="technology" guid="_r-8gsMCiEemEJcXpCGj6gw" presentationName="Technology">
+            <methodElementProperty xmi:id="_sN5isMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <subdomains xmi:id="_3g12kMCiEemEJcXpCGj6gw" name="system" guid="_3g12kMCiEemEJcXpCGj6gw" presentationName="System">
+              <methodElementProperty xmi:id="_3w3PkMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+            <subdomains xmi:id="_4rnAkMCiEemEJcXpCGj6gw" name="software" guid="_4rnAkMCiEemEJcXpCGj6gw" presentationName="Software">
+              <methodElementProperty xmi:id="_46VZEMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+            <subdomains xmi:id="_5qqp0MCiEemEJcXpCGj6gw" name="cloud" guid="_5qqp0MCiEemEJcXpCGj6gw" presentationName="Cloud">
+              <methodElementProperty xmi:id="_53sZMMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+            <subdomains xmi:id="_6k6rkMCiEemEJcXpCGj6gw" name="iot" guid="_6k6rkMCiEemEJcXpCGj6gw" presentationName="IoT">
+              <methodElementProperty xmi:id="_6yz9oMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+            <subdomains xmi:id="_7g_5UMCiEemEJcXpCGj6gw" name="ai" guid="_7g_5UMCiEemEJcXpCGj6gw" presentationName="AI">
+              <methodElementProperty xmi:id="_7ujNIMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            </subdomains>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_OFbM5MCaEemEJcXpCGj6gw" name="Disciplines" guid="_OFbM5MCaEemEJcXpCGj6gw">
+          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_FSKgIMCdEemEJcXpCGj6gw" name="business" guid="_FSKgIMCdEemEJcXpCGj6gw" presentationName="Business" disciplines="_GiUgcMCdEemEJcXpCGj6gw _HhRcAMCdEemEJcXpCGj6gw _IeddAMCdEemEJcXpCGj6gw _JYyXQMCdEemEJcXpCGj6gw _KdWLkMCdEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_Fk-HYMCdEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_GiUgcMCdEemEJcXpCGj6gw" name="strategy" guid="_GiUgcMCdEemEJcXpCGj6gw" presentationName="Strategy">
+            <methodElementProperty xmi:id="_Gx834MCdEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_HhRcAMCdEemEJcXpCGj6gw" name="marketing" guid="_HhRcAMCdEemEJcXpCGj6gw" presentationName="Marketing">
+            <methodElementProperty xmi:id="_HumGUMCdEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_IeddAMCdEemEJcXpCGj6gw" name="operation" guid="_IeddAMCdEemEJcXpCGj6gw" presentationName="Operation">
+            <methodElementProperty xmi:id="_ItAPUMCdEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_JYyXQMCdEemEJcXpCGj6gw" name="innovation" guid="_JYyXQMCdEemEJcXpCGj6gw" presentationName="Innovation">
+            <methodElementProperty xmi:id="_JmKE4MCdEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_KdWLkMCdEemEJcXpCGj6gw" name="performance" guid="_KdWLkMCdEemEJcXpCGj6gw" presentationName="Performance">
+            <methodElementProperty xmi:id="_KonAYMCdEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_LcxBMMCdEemEJcXpCGj6gw" name="management" guid="_LcxBMMCdEemEJcXpCGj6gw" presentationName="Management" disciplines="_MVrmMMCdEemEJcXpCGj6gw _OiwhwMCdEemEJcXpCGj6gw _PaeM4MCdEemEJcXpCGj6gw _Qe43QMCdEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_LqX_YMCdEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_MVrmMMCdEemEJcXpCGj6gw" name="talent" guid="_MVrmMMCdEemEJcXpCGj6gw" presentationName="Talent">
+            <methodElementProperty xmi:id="_Mh_j4MCdEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_OiwhwMCdEemEJcXpCGj6gw" name="change" guid="_OiwhwMCdEemEJcXpCGj6gw" presentationName="Change">
+            <methodElementProperty xmi:id="_Ourd4MCdEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_PaeM4MCdEemEJcXpCGj6gw" name="leadership" guid="_PaeM4MCdEemEJcXpCGj6gw" presentationName="Leadership">
+            <methodElementProperty xmi:id="_PnNBUMCdEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_Qe43QMCdEemEJcXpCGj6gw" name="entrepreneurship" guid="_Qe43QMCdEemEJcXpCGj6gw" presentationName="Entrepreneurship">
+            <methodElementProperty xmi:id="_QuTzUMCdEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_Ro82oMCdEemEJcXpCGj6gw" name="technology" guid="_Ro82oMCdEemEJcXpCGj6gw" presentationName="Technology" disciplines="_VVjEMMCdEemEJcXpCGj6gw _WYCb8MCdEemEJcXpCGj6gw _XXDo8MCdEemEJcXpCGj6gw _YYkwUMCdEemEJcXpCGj6gw _ZUov8MCdEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_R9gxYMCdEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_VVjEMMCdEemEJcXpCGj6gw" name="system" guid="_VVjEMMCdEemEJcXpCGj6gw" presentationName="System">
+            <methodElementProperty xmi:id="_VoHa4MCdEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_WYCb8MCdEemEJcXpCGj6gw" name="software" guid="_WYCb8MCdEemEJcXpCGj6gw" presentationName="Software">
+            <methodElementProperty xmi:id="_WkZc8MCdEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_XXDo8MCdEemEJcXpCGj6gw" name="cloud" guid="_XXDo8MCdEemEJcXpCGj6gw" presentationName="Cloud">
+            <methodElementProperty xmi:id="_XjT8QMCdEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_YYkwUMCdEemEJcXpCGj6gw" name="iot" guid="_YYkwUMCdEemEJcXpCGj6gw" presentationName="IoT">
+            <methodElementProperty xmi:id="_Yk7xUMCdEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_ZUov8MCdEemEJcXpCGj6gw" name="ai" guid="_ZUov8MCdEemEJcXpCGj6gw" presentationName="AI">
+            <methodElementProperty xmi:id="_ZhNMUMCdEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_IVZ1YMCiEemEJcXpCGj6gw" name="fabric" guid="_IVZ1YMCiEemEJcXpCGj6gw" presentationName="Fabric" disciplines="_J2GzIMCiEemEJcXpCGj6gw _PvfoYMCiEemEJcXpCGj6gw _Q3UMEMCiEemEJcXpCGj6gw _R5D88MCiEemEJcXpCGj6gw _S-bCgMCiEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_IxNnoMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_J2GzIMCiEemEJcXpCGj6gw" name="governance" guid="_J2GzIMCiEemEJcXpCGj6gw" presentationName="Governance">
+            <methodElementProperty xmi:id="_KDr8IMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_PvfoYMCiEemEJcXpCGj6gw" name="compliance" guid="_PvfoYMCiEemEJcXpCGj6gw" presentationName="Compliance">
+            <methodElementProperty xmi:id="_P9g2QMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_Q3UMEMCiEemEJcXpCGj6gw" name="architecture" guid="_Q3UMEMCiEemEJcXpCGj6gw" presentationName="Architecture">
+            <methodElementProperty xmi:id="_RF0iIMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_R5D88MCiEemEJcXpCGj6gw" name="security" guid="_R5D88MCiEemEJcXpCGj6gw" presentationName="Security">
+            <methodElementProperty xmi:id="_SFrcoMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_S-bCgMCiEemEJcXpCGj6gw" name="platform" guid="_S-bCgMCiEemEJcXpCGj6gw" presentationName="Platform">
+            <methodElementProperty xmi:id="_TJ55wMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_UFmF8MCiEemEJcXpCGj6gw" name="team" guid="_UFmF8MCiEemEJcXpCGj6gw" presentationName="Team" disciplines="_VIjXwMCiEemEJcXpCGj6gw _WIDs8MCiEemEJcXpCGj6gw _XGsfcMCiEemEJcXpCGj6gw _YCvQ8MCiEemEJcXpCGj6gw _Y_VcEMCiEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_UShHoMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_VIjXwMCiEemEJcXpCGj6gw" name="people" guid="_VIjXwMCiEemEJcXpCGj6gw" presentationName="People">
+            <methodElementProperty xmi:id="_VVrNwMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_WIDs8MCiEemEJcXpCGj6gw" name="project" guid="_WIDs8MCiEemEJcXpCGj6gw" presentationName="Project">
+            <methodElementProperty xmi:id="_WUxTQMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_XGsfcMCiEemEJcXpCGj6gw" name="agility" guid="_XGsfcMCiEemEJcXpCGj6gw" presentationName="Agility">
+            <methodElementProperty xmi:id="_XRnWAMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_YCvQ8MCiEemEJcXpCGj6gw" name="engineering" guid="_YCvQ8MCiEemEJcXpCGj6gw" presentationName="Engineering">
+            <methodElementProperty xmi:id="_YPmBMMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_Y_VcEMCiEemEJcXpCGj6gw" name="integration" guid="_Y_VcEMCiEemEJcXpCGj6gw" presentationName="Integration">
+            <methodElementProperty xmi:id="_ZPoh4MCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_aOYCEMCiEemEJcXpCGj6gw" name="outcome" guid="_aOYCEMCiEemEJcXpCGj6gw" presentationName="Outcome" disciplines="_bS1IsMCiEemEJcXpCGj6gw _cYlP0MCiEemEJcXpCGj6gw _da_vEMCiEemEJcXpCGj6gw _eZafIMCiEemEJcXpCGj6gw _fXR1kMCiEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_abR1oMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_bS1IsMCiEemEJcXpCGj6gw" name="value" guid="_bS1IsMCiEemEJcXpCGj6gw" presentationName="Value">
+            <methodElementProperty xmi:id="_bi7aMMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_cYlP0MCiEemEJcXpCGj6gw" name="process" guid="_cYlP0MCiEemEJcXpCGj6gw" presentationName="Process">
+            <methodElementProperty xmi:id="_clQZ4MCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_da_vEMCiEemEJcXpCGj6gw" name="rule" guid="_da_vEMCiEemEJcXpCGj6gw" presentationName="Rule">
+            <methodElementProperty xmi:id="_dnvxoMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_eZafIMCiEemEJcXpCGj6gw" name="data" guid="_eZafIMCiEemEJcXpCGj6gw" presentationName="Data">
+            <methodElementProperty xmi:id="_eon_0MCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_fXR1kMCiEemEJcXpCGj6gw" name="intelligence" guid="_fXR1kMCiEemEJcXpCGj6gw" presentationName="Intelligence">
+            <methodElementProperty xmi:id="_fjfsoMCiEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_OFbM5cCaEemEJcXpCGj6gw" name="RoleSets" guid="_OFbM5cCaEemEJcXpCGj6gw">
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_1wdq0MCyEemEJcXpCGj6gw" name="governance" guid="_1wdq0MCyEemEJcXpCGj6gw" presentationName="Governance">
+            <methodElementProperty xmi:id="_2CzYAMCyEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_28TL0MCyEemEJcXpCGj6gw" name="compliance" guid="_28TL0MCyEemEJcXpCGj6gw" presentationName="Compliance">
+            <methodElementProperty xmi:id="_3eer0MCyEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_4RnY8MCyEemEJcXpCGj6gw" name="architecture" guid="_4RnY8MCyEemEJcXpCGj6gw" presentationName="Architecture">
+            <methodElementProperty xmi:id="_4gBBUMCyEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_5WNpgMCyEemEJcXpCGj6gw" name="security" guid="_5WNpgMCyEemEJcXpCGj6gw" presentationName="Security">
+            <methodElementProperty xmi:id="_5hzOcMCyEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_6gvi8MCyEemEJcXpCGj6gw" name="platform" guid="_6gvi8MCyEemEJcXpCGj6gw" presentationName="Platform">
+            <methodElementProperty xmi:id="_6vsk8MCyEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_C_BW0MCzEemEJcXpCGj6gw" name="people" guid="_C_BW0MCzEemEJcXpCGj6gw" presentationName="People">
+            <methodElementProperty xmi:id="_DPJdgMCzEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_ECPuYMCzEemEJcXpCGj6gw" name="project" guid="_ECPuYMCzEemEJcXpCGj6gw" presentationName="Project">
+            <methodElementProperty xmi:id="_EO0x0MCzEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_FMUU0MCzEemEJcXpCGj6gw" name="agility" guid="_FMUU0MCzEemEJcXpCGj6gw" presentationName="Agility">
+            <methodElementProperty xmi:id="_FaTGcMCzEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_GRKdAMCzEemEJcXpCGj6gw" name="engineering" guid="_GRKdAMCzEemEJcXpCGj6gw" presentationName="Engineering">
+            <methodElementProperty xmi:id="_GeOooMCzEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_HSU_EMCzEemEJcXpCGj6gw" name="integration" guid="_HSU_EMCzEemEJcXpCGj6gw" presentationName="Integration">
+            <methodElementProperty xmi:id="_HgTwsMCzEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_IVDAUMCzEemEJcXpCGj6gw" name="value" guid="_IVDAUMCzEemEJcXpCGj6gw" presentationName="Value">
+            <methodElementProperty xmi:id="_Ijg6IMCzEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_Ju36AMCzEemEJcXpCGj6gw" name="process" guid="_Ju36AMCzEemEJcXpCGj6gw" presentationName="Process">
+            <methodElementProperty xmi:id="_J_l2kMCzEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_Ky6J4MCzEemEJcXpCGj6gw" name="rule" guid="_Ky6J4MCzEemEJcXpCGj6gw" presentationName="Rule">
+            <methodElementProperty xmi:id="_LEH1sMCzEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_L8wG0MCzEemEJcXpCGj6gw" name="data" guid="_L8wG0MCzEemEJcXpCGj6gw" presentationName="Data">
+            <methodElementProperty xmi:id="_MMt1cMCzEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_M-5gUMCzEemEJcXpCGj6gw" name="intelligence" guid="_M-5gUMCzEemEJcXpCGj6gw" presentationName="Intelligence">
+            <methodElementProperty xmi:id="_NOfbgMCzEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_OAPBgMCzEemEJcXpCGj6gw" name="strategy" guid="_OAPBgMCzEemEJcXpCGj6gw" presentationName="Strategy">
+            <methodElementProperty xmi:id="_OeV50MCzEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_PVxREMCzEemEJcXpCGj6gw" name="marketing" guid="_PVxREMCzEemEJcXpCGj6gw" presentationName="Marketing">
+            <methodElementProperty xmi:id="_PltKgMCzEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_QaXhoMCzEemEJcXpCGj6gw" name="operation" guid="_QaXhoMCzEemEJcXpCGj6gw" presentationName="Operation">
+            <methodElementProperty xmi:id="_QtCmAMCzEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_RrOFgMCzEemEJcXpCGj6gw" name="innovation" guid="_RrOFgMCzEemEJcXpCGj6gw" presentationName="Innovation">
+            <methodElementProperty xmi:id="_R9TUAMCzEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_TAHb4MCzEemEJcXpCGj6gw" name="performance" guid="_TAHb4MCzEemEJcXpCGj6gw" presentationName="Performance">
+            <methodElementProperty xmi:id="_TOZvgMCzEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_UDb6EMCzEemEJcXpCGj6gw" name="talent" guid="_UDb6EMCzEemEJcXpCGj6gw" presentationName="Talent">
+            <methodElementProperty xmi:id="_UWjDUMCzEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_VMDvAMCzEemEJcXpCGj6gw" name="learning" guid="_VMDvAMCzEemEJcXpCGj6gw" presentationName="Learning" briefDescription="Learning&#xD;&#xA;">
+            <methodElementProperty xmi:id="_Vasn8MCzEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_WqHBYMCzEemEJcXpCGj6gw" name="change" guid="_WqHBYMCzEemEJcXpCGj6gw" presentationName="Change">
+            <methodElementProperty xmi:id="_W7GqwMCzEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_XrXqEMCzEemEJcXpCGj6gw" name="leadership" guid="_XrXqEMCzEemEJcXpCGj6gw" presentationName="Leadership">
+            <methodElementProperty xmi:id="_YJyrcMCzEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_ZCkGgMCzEemEJcXpCGj6gw" name="entrepreneurship" guid="_ZCkGgMCzEemEJcXpCGj6gw" presentationName="Entrepreneurship">
+            <methodElementProperty xmi:id="_ZPyDIMCzEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_aDUY4MCzEemEJcXpCGj6gw" name="system" guid="_aDUY4MCzEemEJcXpCGj6gw" presentationName="System">
+            <methodElementProperty xmi:id="_aTwBkMCzEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_bIsFgMCzEemEJcXpCGj6gw" name="software" guid="_bIsFgMCzEemEJcXpCGj6gw" presentationName="Software">
+            <methodElementProperty xmi:id="_bXG8AMCzEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_cI168MCzEemEJcXpCGj6gw" name="cloud" guid="_cI168MCzEemEJcXpCGj6gw" presentationName="Cloud">
+            <methodElementProperty xmi:id="_cdn4IMCzEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_drk5AMCzEemEJcXpCGj6gw" name="iot" guid="_drk5AMCzEemEJcXpCGj6gw" presentationName="IoT">
+            <methodElementProperty xmi:id="_d4sH8MCzEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_esN2oMCzEemEJcXpCGj6gw" name="ai" guid="_esN2oMCzEemEJcXpCGj6gw" presentationName="AI">
+            <methodElementProperty xmi:id="_e4szcMCzEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_OFbM5sCaEemEJcXpCGj6gw" name="WP Types" guid="_OFbM5sCaEemEJcXpCGj6gw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_OFbM58CaEemEJcXpCGj6gw" name="Tools" guid="_OFbM58CaEemEJcXpCGj6gw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_OFbM6MCaEemEJcXpCGj6gw" name="StandardCategories" guid="_OFbM6MCaEemEJcXpCGj6gw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_OFbM6cCaEemEJcXpCGj6gw" name="CustomCategories" guid="_OFbM6cCaEemEJcXpCGj6gw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_OFbM6sCaEemEJcXpCGj6gw" name="Hidden" guid="_OFbM6sCaEemEJcXpCGj6gw">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_OFbM68CaEemEJcXpCGj6gw" name="Custom Categories" guid="_OFbM68CaEemEJcXpCGj6gw" categorizedElements="_GfSFcMCbEemEJcXpCGj6gw _NYeK0MCbEemEJcXpCGj6gw _SRa2wMCbEemEJcXpCGj6gw _W2lEAMCbEemEJcXpCGj6gw _bw-hcMCbEemEJcXpCGj6gw _lrxWoMCbEemEJcXpCGj6gw _foM1cP93EemvmrQda9Gxiw _iRahIP98EemrPbCfteaqmw"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_GfSFcMCbEemEJcXpCGj6gw" name="overview" guid="_GfSFcMCbEemEJcXpCGj6gw" presentationName="Overview" briefDescription="Business Technology Management (BTM) is an emergent profession whose mission is to highlight the importance of a hybrid business-technology-management acumen for all business actors (associates, professionals, managers, entrepreneurs and executives). In order to succeed, organizations must constantly rethink their business models, have innovative digital transformation (DT) and a thoughtful information technology (IT) investment among their top priorities. Existing technology, business and management BOKs have been developed with different underlying philosophies and this has resulted in fragemented worldviews held by practitioners and BTM intends to solve this problem by harmonizing standards contained in those diffent BOKs. BTM intends to achieve its mission by different means and coaching the next generation of Leaders of the Digital Transformation is one of its top strategies.&#xD;&#xA;&#xD;&#xA;" categorizedElements="_I5EnUMCbEemEJcXpCGj6gw _K3O9IMCbEemEJcXpCGj6gw _MH4ssMCbEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_Hz-AcMCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-fo2ZRlbcy7w7JlDHbJb5Yw" href="uma://-fo2ZRlbcy7w7JlDHbJb5Yw#-fo2ZRlbcy7w7JlDHbJb5Yw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_I5EnUMCbEemEJcXpCGj6gw" name="purpose" guid="_I5EnUMCbEemEJcXpCGj6gw" presentationName="Purpose" briefDescription="The concept of Business Technology Management (BTM) as an emerging profession and the  BTM BOK Project meant to create the guide of this profession were proposed and initiated in 2009 by and the Information Technology Association of Canada (ITAC).  What has motivated this organization to do so? According to ITAC, the hybrid Business-Technology-Management acumen was, and is still, crucial to business success and yet generally overlooked by organizations. So, this was a gap and ITAC decided to bridge it by championning the BTM BOK Project a project whose the mission is to map and harmonize dozens of business, technology and management guides found in different industries.&#xD;&#xA;" categorizedElements="_hn_CAMCkEemEJcXpCGj6gw _ixIbYMCkEemEJcXpCGj6gw _j29bAMCkEemEJcXpCGj6gw _k3tGUMCkEemEJcXpCGj6gw _l6YrUMCkEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_Jd-rMMCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-3ClA2Un2TOWOKFipVPnmMw" href="uma://-3ClA2Un2TOWOKFipVPnmMw#-3ClA2Un2TOWOKFipVPnmMw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_K3O9IMCbEemEJcXpCGj6gw" name="contents" guid="_K3O9IMCbEemEJcXpCGj6gw" presentationName="Contents" briefDescription="BTM BOK is composed of 7 chapters and its contents are designed after a metamodel i.e. a broad framework that shows key elements and interdependences between them." categorizedElements="_nfckoMCkEemEJcXpCGj6gw _ou9rwMCkEemEJcXpCGj6gw _pyBEMMCkEemEJcXpCGj6gw _qxaEoMCkEemEJcXpCGj6gw _r2rDkMCkEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_LNikUMCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-HMSo4hMieUCgxQNooTezlw" href="uma://-HMSo4hMieUCgxQNooTezlw#-HMSo4hMieUCgxQNooTezlw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_MH4ssMCbEemEJcXpCGj6gw" name="methodology" guid="_MH4ssMCbEemEJcXpCGj6gw" presentationName="Methodology" briefDescription="BTM  BOK is developped with a methodology based on the following three Eclipse Processus Framework (EPF) capabilities.&#xD;&#xA;1. EPF Editor to design the guide framework, add and edit its content&#xD;&#xA;2. EPF Wiki to allow users contribute to the improvement of the guide's content via their comments&#xD;&#xA;3. EPF Wiki API extensions to allow the reuse of the guide's assets" categorizedElements="_tJ_FkMCkEemEJcXpCGj6gw _uU-SAMCkEemEJcXpCGj6gw _vhRtEMCkEemEJcXpCGj6gw _wq7cwMCkEemEJcXpCGj6gw _yaWzAMCkEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_MbhaYMCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-NTHiTSHilRqFf7oYvfYvQw" href="uma://-NTHiTSHilRqFf7oYvfYvQw#-NTHiTSHilRqFf7oYvfYvQw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_NYeK0MCbEemEJcXpCGj6gw" name="transformation" guid="_NYeK0MCbEemEJcXpCGj6gw" presentationName="Transformation" categorizedElements="_OgwokMCbEemEJcXpCGj6gw _PnKP8MCbEemEJcXpCGj6gw _QvvooMCbEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_NpnlMMCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_OgwokMCbEemEJcXpCGj6gw" name="opportunity" guid="_OgwokMCbEemEJcXpCGj6gw" presentationName="Opportunity" categorizedElements="_6cU60MCjEemEJcXpCGj6gw _7hFjcMCjEemEJcXpCGj6gw _8jk7MMCjEemEJcXpCGj6gw _9joC8MCjEemEJcXpCGj6gw _-i5uoMCjEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_Ox3msMCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_PnKP8MCbEemEJcXpCGj6gw" name="decision" guid="_PnKP8MCbEemEJcXpCGj6gw" presentationName="Decision" categorizedElements="__0ddIMCjEemEJcXpCGj6gw _BN_b4MCkEemEJcXpCGj6gw _CM-zsMCkEemEJcXpCGj6gw _DV_qMMCkEemEJcXpCGj6gw _ESDp0MCkEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_P3HXgMCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_QvvooMCbEemEJcXpCGj6gw" name="accountability" guid="_QvvooMCbEemEJcXpCGj6gw" presentationName="Accountability" categorizedElements="_FgMQ4MCkEemEJcXpCGj6gw _G9zeYMCkEemEJcXpCGj6gw _Iuv3kMCkEemEJcXpCGj6gw _KJsLkMCkEemEJcXpCGj6gw _LJYuAMCkEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_RA8tYMCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_SRa2wMCbEemEJcXpCGj6gw" name="practice" guid="_SRa2wMCbEemEJcXpCGj6gw" presentationName="Practice" categorizedElements="_TW_XsMCbEemEJcXpCGj6gw _UlpjMMCbEemEJcXpCGj6gw _VrJLoMCbEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_SgplkMCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_TW_XsMCbEemEJcXpCGj6gw" name="fabric" guid="_TW_XsMCbEemEJcXpCGj6gw" presentationName="Fabric" categorizedElements="_LHxZ4MCjEemEJcXpCGj6gw _MJcSQMCjEemEJcXpCGj6gw _NGKZMMCjEemEJcXpCGj6gw _OHBZQMCjEemEJcXpCGj6gw _PIXhgMCjEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_TnWu8MCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_UlpjMMCbEemEJcXpCGj6gw" name="team" guid="_UlpjMMCbEemEJcXpCGj6gw" presentationName="Team" categorizedElements="_Qlr0EMCjEemEJcXpCGj6gw _R3v44MCjEemEJcXpCGj6gw _S0spUMCjEemEJcXpCGj6gw _TwaqsMCjEemEJcXpCGj6gw _UqwzEMCjEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_U2Fy8MCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_VrJLoMCbEemEJcXpCGj6gw" name="outcome" guid="_VrJLoMCbEemEJcXpCGj6gw" presentationName="Outcome" categorizedElements="_VzJXcMCjEemEJcXpCGj6gw _XFw14MCjEemEJcXpCGj6gw _YHoikMCjEemEJcXpCGj6gw _ZROA0MCjEemEJcXpCGj6gw _alDnQMCjEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_V4jVgMCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_W2lEAMCbEemEJcXpCGj6gw" name="discipline" guid="_W2lEAMCbEemEJcXpCGj6gw" presentationName="Discipline" categorizedElements="_X56JQMCbEemEJcXpCGj6gw _ZBSoEMCbEemEJcXpCGj6gw _aCzIYMCbEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_XGgWYMCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_X56JQMCbEemEJcXpCGj6gw" name="business" guid="_X56JQMCbEemEJcXpCGj6gw" presentationName="Business" categorizedElements="_dhuzwMCjEemEJcXpCGj6gw _edDzkMCjEemEJcXpCGj6gw _xGSGkMClEemEJcXpCGj6gw _yEbJ0MClEemEJcXpCGj6gw _y-bT8MClEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_YKyd4MCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_ZBSoEMCbEemEJcXpCGj6gw" name="management" guid="_ZBSoEMCbEemEJcXpCGj6gw" presentationName="Management" categorizedElements="_iSDIIMCjEemEJcXpCGj6gw _jM0HQMCjEemEJcXpCGj6gw _kKq2oMCjEemEJcXpCGj6gw _mKyUQMCjEemEJcXpCGj6gw _nPyNcMCjEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_ZOxqcMCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_aCzIYMCbEemEJcXpCGj6gw" name="technology" guid="_aCzIYMCbEemEJcXpCGj6gw" presentationName="Technology" categorizedElements="_oQFz4MCjEemEJcXpCGj6gw _xFS6AMCjEemEJcXpCGj6gw _yMkrIMCjEemEJcXpCGj6gw _zIybwMCjEemEJcXpCGj6gw _0FLykMCjEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_aRTecMCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_bw-hcMCbEemEJcXpCGj6gw" name="lifecycle" guid="_bw-hcMCbEemEJcXpCGj6gw" presentationName="Lifecycle" categorizedElements="_cwYI8MCbEemEJcXpCGj6gw _d0DMcMCbEemEJcXpCGj6gw _eupMcMCbEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_cCS68MCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_cwYI8MCbEemEJcXpCGj6gw" name="scope" guid="_cwYI8MCbEemEJcXpCGj6gw" presentationName="Scope" categorizedElements="_O6xU8MCkEemEJcXpCGj6gw _QEfWEMCkEemEJcXpCGj6gw _RB71wMCkEemEJcXpCGj6gw _SBWrYMCkEemEJcXpCGj6gw _TfPlsMCkEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_c_EsQMCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_d0DMcMCbEemEJcXpCGj6gw" name="focus" guid="_d0DMcMCbEemEJcXpCGj6gw" presentationName="Focus" categorizedElements="_Um-CwMCkEemEJcXpCGj6gw _Vil9gMCkEemEJcXpCGj6gw _Wkuv8MCkEemEJcXpCGj6gw _X9LwoMCkEemEJcXpCGj6gw _Y5VP0MCkEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_eBBRcMCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_eupMcMCbEemEJcXpCGj6gw" name="sector" guid="_eupMcMCbEemEJcXpCGj6gw" presentationName="Sector" categorizedElements="_Z_lGMMCkEemEJcXpCGj6gw _a71TEMCkEemEJcXpCGj6gw _b5ktsMCkEemEJcXpCGj6gw _dLoygMCkEemEJcXpCGj6gw _eMnuYMCkEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_e7iY8MCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_lrxWoMCbEemEJcXpCGj6gw" name="bibliography" guid="_lrxWoMCbEemEJcXpCGj6gw" presentationName="Bibliography" categorizedElements="_nBvEAMCbEemEJcXpCGj6gw _ocB3wMCbEemEJcXpCGj6gw _7Aq9AMCuEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_l78goMCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_nBvEAMCbEemEJcXpCGj6gw" name="articles" guid="_nBvEAMCbEemEJcXpCGj6gw" presentationName="Articles">
+            <methodElementProperty xmi:id="_n3C7YMCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_ocB3wMCbEemEJcXpCGj6gw" name="books" guid="_ocB3wMCbEemEJcXpCGj6gw" presentationName="Books" briefDescription="boo">
+            <methodElementProperty xmi:id="_pcG0sMCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_LHxZ4MCjEemEJcXpCGj6gw" name="governance" guid="_LHxZ4MCjEemEJcXpCGj6gw" presentationName="Governance">
+            <methodElementProperty xmi:id="_LX_AIMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_MJcSQMCjEemEJcXpCGj6gw" name="compliance" guid="_MJcSQMCjEemEJcXpCGj6gw" presentationName="Compliance">
+            <methodElementProperty xmi:id="_MV9EQMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_NGKZMMCjEemEJcXpCGj6gw" name="architecture" guid="_NGKZMMCjEemEJcXpCGj6gw" presentationName="Architecture">
+            <methodElementProperty xmi:id="_NTXuwMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_OHBZQMCjEemEJcXpCGj6gw" name="security" guid="_OHBZQMCjEemEJcXpCGj6gw" presentationName="Security">
+            <methodElementProperty xmi:id="_OU9uoMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_PIXhgMCjEemEJcXpCGj6gw" name="platform" guid="_PIXhgMCjEemEJcXpCGj6gw" presentationName="Platform">
+            <methodElementProperty xmi:id="_PVD5sMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Qlr0EMCjEemEJcXpCGj6gw" name="people" guid="_Qlr0EMCjEemEJcXpCGj6gw" presentationName="People">
+            <methodElementProperty xmi:id="_Q4s2sMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_R3v44MCjEemEJcXpCGj6gw" name="project" guid="_R3v44MCjEemEJcXpCGj6gw" presentationName="Project">
+            <methodElementProperty xmi:id="_SESgEMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_S0spUMCjEemEJcXpCGj6gw" name="agility" guid="_S0spUMCjEemEJcXpCGj6gw" presentationName="Agility">
+            <methodElementProperty xmi:id="_TA_Y4MCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_TwaqsMCjEemEJcXpCGj6gw" name="engineering" guid="_TwaqsMCjEemEJcXpCGj6gw" presentationName="Engineering">
+            <methodElementProperty xmi:id="_T-eU0MCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_UqwzEMCjEemEJcXpCGj6gw" name="integration" guid="_UqwzEMCjEemEJcXpCGj6gw" presentationName="Integration">
+            <methodElementProperty xmi:id="_U37sYMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_VzJXcMCjEemEJcXpCGj6gw" name="value" guid="_VzJXcMCjEemEJcXpCGj6gw" presentationName="Value">
+            <methodElementProperty xmi:id="_WDKJYMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_XFw14MCjEemEJcXpCGj6gw" name="process" guid="_XFw14MCjEemEJcXpCGj6gw" presentationName="Process">
+            <methodElementProperty xmi:id="_XT-4EMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_YHoikMCjEemEJcXpCGj6gw" name="rule" guid="_YHoikMCjEemEJcXpCGj6gw" presentationName="Rule">
+            <methodElementProperty xmi:id="_YXIXIMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_ZROA0MCjEemEJcXpCGj6gw" name="data" guid="_ZROA0MCjEemEJcXpCGj6gw" presentationName="Data">
+            <methodElementProperty xmi:id="_Zd7AEMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_alDnQMCjEemEJcXpCGj6gw" name="intelligence" guid="_alDnQMCjEemEJcXpCGj6gw" presentationName="Intelligence">
+            <methodElementProperty xmi:id="_ayHy4MCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_dhuzwMCjEemEJcXpCGj6gw" name="strategy" guid="_dhuzwMCjEemEJcXpCGj6gw" presentationName="Strategy">
+            <methodElementProperty xmi:id="_dumLEMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_edDzkMCjEemEJcXpCGj6gw" name="marketing" guid="_edDzkMCjEemEJcXpCGj6gw" presentationName="Marketing">
+            <methodElementProperty xmi:id="_erjikMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_iSDIIMCjEemEJcXpCGj6gw" name="talent" guid="_iSDIIMCjEemEJcXpCGj6gw" presentationName="Talent">
+            <methodElementProperty xmi:id="_ieCVsMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_jM0HQMCjEemEJcXpCGj6gw" name="learning" guid="_jM0HQMCjEemEJcXpCGj6gw" presentationName="Learning">
+            <methodElementProperty xmi:id="_jaq9EMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_kKq2oMCjEemEJcXpCGj6gw" name="change" guid="_kKq2oMCjEemEJcXpCGj6gw" presentationName="Change" briefDescription="ChangeChange&#xD;&#xA;">
+            <methodElementProperty xmi:id="_kYM8UMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_mKyUQMCjEemEJcXpCGj6gw" name="leadership" guid="_mKyUQMCjEemEJcXpCGj6gw" presentationName="Leadership">
+            <methodElementProperty xmi:id="_mX6KQMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_nPyNcMCjEemEJcXpCGj6gw" name="entrepreneurship" guid="_nPyNcMCjEemEJcXpCGj6gw" presentationName="Entrepreneurship">
+            <methodElementProperty xmi:id="_ndiVkMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_oQFz4MCjEemEJcXpCGj6gw" name="system" guid="_oQFz4MCjEemEJcXpCGj6gw" presentationName="System">
+            <methodElementProperty xmi:id="_oit08MCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_xFS6AMCjEemEJcXpCGj6gw" name="software" guid="_xFS6AMCjEemEJcXpCGj6gw" presentationName="Software">
+            <methodElementProperty xmi:id="_xXQMsMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_yMkrIMCjEemEJcXpCGj6gw" name="cloud" guid="_yMkrIMCjEemEJcXpCGj6gw" presentationName="Cloud">
+            <methodElementProperty xmi:id="_yaDtgMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_zIybwMCjEemEJcXpCGj6gw" name="iot" guid="_zIybwMCjEemEJcXpCGj6gw" presentationName="IoT">
+            <methodElementProperty xmi:id="_zVW4IMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_0FLykMCjEemEJcXpCGj6gw" name="ai" guid="_0FLykMCjEemEJcXpCGj6gw" presentationName="AI">
+            <methodElementProperty xmi:id="_0XuUEMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_6cU60MCjEemEJcXpCGj6gw" name="scan" guid="_6cU60MCjEemEJcXpCGj6gw" presentationName="Scan">
+            <methodElementProperty xmi:id="_6wiQQMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_7hFjcMCjEemEJcXpCGj6gw" name="discover" guid="_7hFjcMCjEemEJcXpCGj6gw" presentationName="Discover">
+            <methodElementProperty xmi:id="_7vbhcMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_8jk7MMCjEemEJcXpCGj6gw" name="prioritize" guid="_8jk7MMCjEemEJcXpCGj6gw" presentationName="Prioritize">
+            <methodElementProperty xmi:id="_8wxpsMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_9joC8MCjEemEJcXpCGj6gw" name="finance" guid="_9joC8MCjEemEJcXpCGj6gw" presentationName="Finance">
+            <methodElementProperty xmi:id="_9xTSkMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_-i5uoMCjEemEJcXpCGj6gw" name="benefit" guid="_-i5uoMCjEemEJcXpCGj6gw" presentationName="Benefit">
+            <methodElementProperty xmi:id="_-xT-EMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="__0ddIMCjEemEJcXpCGj6gw" name="who" guid="__0ddIMCjEemEJcXpCGj6gw" presentationName="Who" briefDescription="Who&#xD;&#xA;">
+            <methodElementProperty xmi:id="_AC7W8MCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_BN_b4MCkEemEJcXpCGj6gw" name="what" guid="_BN_b4MCkEemEJcXpCGj6gw" presentationName="What">
+            <methodElementProperty xmi:id="_BcDGAMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_CM-zsMCkEemEJcXpCGj6gw" name="why" guid="_CM-zsMCkEemEJcXpCGj6gw" presentationName="Why">
+            <methodElementProperty xmi:id="_CbX1AMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_DV_qMMCkEemEJcXpCGj6gw" name="where" guid="_DV_qMMCkEemEJcXpCGj6gw" presentationName="Where">
+            <methodElementProperty xmi:id="_DhcFMMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_ESDp0MCkEemEJcXpCGj6gw" name="how" guid="_ESDp0MCkEemEJcXpCGj6gw" presentationName="How">
+            <methodElementProperty xmi:id="_EfsdMMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_FgMQ4MCkEemEJcXpCGj6gw" name="steer" guid="_FgMQ4MCkEemEJcXpCGj6gw" presentationName="Steer">
+            <methodElementProperty xmi:id="_F9WuAMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_G9zeYMCkEemEJcXpCGj6gw" name="explore" guid="_G9zeYMCkEemEJcXpCGj6gw" presentationName="Explore" briefDescription="Explore&#xD;&#xA;">
+            <methodElementProperty xmi:id="_HL3IgMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Iuv3kMCkEemEJcXpCGj6gw" name="align" guid="_Iuv3kMCkEemEJcXpCGj6gw" presentationName="Align">
+            <methodElementProperty xmi:id="_JCcPoMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_KJsLkMCkEemEJcXpCGj6gw" name="implement" guid="_KJsLkMCkEemEJcXpCGj6gw" presentationName="Implement">
+            <methodElementProperty xmi:id="_KXYpUMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_LJYuAMCkEemEJcXpCGj6gw" name="optimize" guid="_LJYuAMCkEemEJcXpCGj6gw" presentationName="Optimize">
+            <methodElementProperty xmi:id="_LZHMEMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_O6xU8MCkEemEJcXpCGj6gw" name="administration" guid="_O6xU8MCkEemEJcXpCGj6gw" presentationName="Administration">
+            <methodElementProperty xmi:id="_PHhXgMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_QEfWEMCkEemEJcXpCGj6gw" name="solution" guid="_QEfWEMCkEemEJcXpCGj6gw" presentationName="Solution">
+            <methodElementProperty xmi:id="_QRl98MCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_RB71wMCkEemEJcXpCGj6gw" name="support" guid="_RB71wMCkEemEJcXpCGj6gw" presentationName="Support">
+            <methodElementProperty xmi:id="_RO4FkMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_SBWrYMCkEemEJcXpCGj6gw" name="facility" guid="_SBWrYMCkEemEJcXpCGj6gw" presentationName="Facility" briefDescription="Facility&#xD;&#xA;Facility&#xD;&#xA;">
+            <methodElementProperty xmi:id="_Srz9oMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_TfPlsMCkEemEJcXpCGj6gw" name="enterprise" guid="_TfPlsMCkEemEJcXpCGj6gw" presentationName="Enterprise">
+            <methodElementProperty xmi:id="_TtsRYMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Um-CwMCkEemEJcXpCGj6gw" name="behavior" guid="_Um-CwMCkEemEJcXpCGj6gw" presentationName="Behavior">
+            <methodElementProperty xmi:id="_UzTOkMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Vil9gMCkEemEJcXpCGj6gw" name="functionality" guid="_Vil9gMCkEemEJcXpCGj6gw" presentationName="Functionality">
+            <methodElementProperty xmi:id="_VwdaYMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Wkuv8MCkEemEJcXpCGj6gw" name="reengineering" guid="_Wkuv8MCkEemEJcXpCGj6gw" presentationName="Reengineering" briefDescription="Reengineering&#xD;&#xA;">
+            <methodElementProperty xmi:id="_WyJg4MCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_X9LwoMCkEemEJcXpCGj6gw" name="optimization" guid="_X9LwoMCkEemEJcXpCGj6gw" presentationName="Optimization">
+            <methodElementProperty xmi:id="_YKVb0MCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Y5VP0MCkEemEJcXpCGj6gw" name="diversification" guid="_Y5VP0MCkEemEJcXpCGj6gw" presentationName="Diversification">
+            <methodElementProperty xmi:id="_ZL4_cMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Z_lGMMCkEemEJcXpCGj6gw" name="resource" guid="_Z_lGMMCkEemEJcXpCGj6gw" presentationName="Resource">
+            <methodElementProperty xmi:id="_aNJoIMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_a71TEMCkEemEJcXpCGj6gw" name="infrastructure" guid="_a71TEMCkEemEJcXpCGj6gw" presentationName="Infrastructure">
+            <methodElementProperty xmi:id="_bIRMkMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_b5ktsMCkEemEJcXpCGj6gw" name="product" guid="_b5ktsMCkEemEJcXpCGj6gw" presentationName="Product" briefDescription="Product&#xD;&#xA;">
+            <methodElementProperty xmi:id="_cK1c0MCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_dLoygMCkEemEJcXpCGj6gw" name="service" guid="_dLoygMCkEemEJcXpCGj6gw" presentationName="Service">
+            <methodElementProperty xmi:id="_dYydsMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_eMnuYMCkEemEJcXpCGj6gw" name="public" guid="_eMnuYMCkEemEJcXpCGj6gw" presentationName="Public">
+            <methodElementProperty xmi:id="_eaa50MCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_hn_CAMCkEemEJcXpCGj6gw" name="objectives" guid="_hn_CAMCkEemEJcXpCGj6gw" presentationName="Objectives" briefDescription="The BTM profession hopes to realize its mission by achieving the following 3 objectives:&#xD;&#xA;1. Coach Digital Transformation Leaders&#xD;&#xA;2. Help practitioners develop a hybrid business-technology-management acumen&#xD;&#xA;3. Help practitioners look at information technology (IT) through a wide business lens">
+            <methodElementProperty xmi:id="_h6UIIMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-N6Q-oNciradUHp2VqCvp9g" href="uma://-N6Q-oNciradUHp2VqCvp9g#-N6Q-oNciradUHp2VqCvp9g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_ixIbYMCkEemEJcXpCGj6gw" name="profession" guid="_ixIbYMCkEemEJcXpCGj6gw" presentationName="Profession" briefDescription="BTM is an emerging profession meant to help people with different backgrounds aquire skillsets required to effectively lead innovation and optimization in  digital transformation projects.">
+            <methodElementProperty xmi:id="_i_BGYMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-de8fcYL1oSiPb0LRiDrwIQ" href="uma://-de8fcYL1oSiPb0LRiDrwIQ#-de8fcYL1oSiPb0LRiDrwIQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_j29bAMCkEemEJcXpCGj6gw" name="adoption" guid="_j29bAMCkEemEJcXpCGj6gw" presentationName="Adoption" briefDescription="BTM intends to promote Evidence Based Professions and this is achievable thanks to the practice-grounded nature of its guide. BTM and BTM BOK are expected to become free resources available to all kinds of businesses, in the form of a broad and customizable framework that can be adopted by different organizations for growth purpose. ">
+            <methodElementProperty xmi:id="_kF4n0MCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-gS9L0aW7PWf0yhvuw013-g" href="uma://-gS9L0aW7PWf0yhvuw013-g#-gS9L0aW7PWf0yhvuw013-g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_k3tGUMCkEemEJcXpCGj6gw" name="customization" guid="_k3tGUMCkEemEJcXpCGj6gw" presentationName="Customization" briefDescription="BTM presents BTM BOK, its guide, in different editable formats and this makes it possible for organizations to customize it to their specific needs and contexts.">
+            <methodElementProperty xmi:id="_lHhrAMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-nhNaORXdr41XamLrHMlwsQ" href="uma://-nhNaORXdr41XamLrHMlwsQ#-nhNaORXdr41XamLrHMlwsQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_l6YrUMCkEemEJcXpCGj6gw" name="community" guid="_l6YrUMCkEemEJcXpCGj6gw" presentationName="Community" briefDescription="BTM Forum is a platform that was initiated in Canada with the mandate to advance the BTM Profession by tapping the ''widsom of crowds''. The Forum welcomes and encourages contributions from all of those who believe in contribution of information technology (IT) and digital transformation to business success.&#xD;&#xA;">
+            <methodElementProperty xmi:id="_mMjZYMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-NL_OqWvmVMThBla8u5Eqog" href="uma://-NL_OqWvmVMThBla8u5Eqog#-NL_OqWvmVMThBla8u5Eqog"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_nfckoMCkEemEJcXpCGj6gw" name="metamodel" guid="_nfckoMCkEemEJcXpCGj6gw" presentationName="Metamodel" briefDescription="BTM BOK Project uses Eclipse Process Framework to create the metamodel of the guide. This metamodel is a broad fremework that contains key elements of the proposed standard and their interdependencies.">
+            <methodElementProperty xmi:id="_ntHNMMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-n5dCCVizm3vQ35MXNq-8gA" href="uma://-n5dCCVizm3vQ35MXNq-8gA#-n5dCCVizm3vQ35MXNq-8gA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_ou9rwMCkEemEJcXpCGj6gw" name="structure" guid="_ou9rwMCkEemEJcXpCGj6gw" presentationName="Structure" briefDescription="The content of BTM BOK is likely to change as more materials are integrated and more people edit this guide but the BOK's outline has been determined and consists of the following 7 chapters:&#xD;&#xA;1. Overview&#xD;&#xA;2. Transformation&#xD;&#xA;3. Practice&#xD;&#xA;4. Discipline&#xD;&#xA;5. Lifecycle&#xD;&#xA;6. Career&#xD;&#xA;7. Standard&#xD;&#xA;">
+            <methodElementProperty xmi:id="_o99KAMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-3dygNUi2bbcdn3Q7-cNC4Q" href="uma://-3dygNUi2bbcdn3Q7-cNC4Q#-3dygNUi2bbcdn3Q7-cNC4Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_pyBEMMCkEemEJcXpCGj6gw" name="components" guid="_pyBEMMCkEemEJcXpCGj6gw" presentationName="Components" briefDescription="BTM BOK is founded on 7 core knowledge areas. These are:&#xD;&#xA;1. Competency integration&#xD;&#xA;2. Interpersonal competencies&#xD;&#xA;3. Business acumen&#xD;&#xA;4. Technlogical competencies&#xD;&#xA;5. Technology's contribution to business success&#xD;&#xA;6. Importance of innovation in business and technology&#xD;&#xA;7. Process, project and change management&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+            <methodElementProperty xmi:id="_p_4hEMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-0CBLmcri38c8BpEDwifLHQ" href="uma://-0CBLmcri38c8BpEDwifLHQ#-0CBLmcri38c8BpEDwifLHQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_qxaEoMCkEemEJcXpCGj6gw" name="dependencies" guid="_qxaEoMCkEemEJcXpCGj6gw" presentationName="Dependencies" briefDescription="In order to successfully lead digital transformation processes, practitioners must collaborate in different areas such as knowledge, methods, guidelines, policies etc.">
+            <methodElementProperty xmi:id="_q_s_UMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-FWqbfXxjFQj7ndnSWISNvQ" href="uma://-FWqbfXxjFQj7ndnSWISNvQ#-FWqbfXxjFQj7ndnSWISNvQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_r2rDkMCkEemEJcXpCGj6gw" name="sources" guid="_r2rDkMCkEemEJcXpCGj6gw" presentationName="Sources" briefDescription="The sources of BTM BOK are primarily different Free Libre Open Source (FLOS) publications and feedback from Community end-users.">
+            <methodElementProperty xmi:id="_sDkQEMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-pKk1qrkqOLoIAhrCp9P9vg" href="uma://-pKk1qrkqOLoIAhrCp9P9vg#-pKk1qrkqOLoIAhrCp9P9vg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_tJ_FkMCkEemEJcXpCGj6gw" name="licenses" guid="_tJ_FkMCkEemEJcXpCGj6gw" presentationName="Licenses" briefDescription="BTM BOK development is facilitated by different licenses that allow the integration of several Free Libre Open Source (FLOS) specifications, methodologies, reference models, and standards.&#xD;&#xA;These licenses include:&#xD;&#xA;1. Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)&#xD;&#xA;2. Eclipse Public License (EPL 1.0)&#xD;&#xA;3. European Union Public Licence (EUPL 1.2)">
+            <methodElementProperty xmi:id="_tY2oAMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-nA3OdVIrSA0ccA97XKpbaw" href="uma://-nA3OdVIrSA0ccA97XKpbaw#-nA3OdVIrSA0ccA97XKpbaw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_uU-SAMCkEemEJcXpCGj6gw" name="references" guid="_uU-SAMCkEemEJcXpCGj6gw" presentationName="References" briefDescription="BTM BOK development is integrating dozens of references from Free Libre Open Source (FLOS) resources, 57 of these at the initial phase but this number is expected to increase to 100+. These resources have a diverse source and originate from different parties such as vendors, textbooks' authors, research institutions,  professional associations and governement agencies.">
+            <methodElementProperty xmi:id="_ukxBgMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-mV-VCMA2fejbbTCGo8fUqg" href="uma://-mV-VCMA2fejbbTCGo8fUqg#-mV-VCMA2fejbbTCGo8fUqg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_vhRtEMCkEemEJcXpCGj6gw" name="editing" guid="_vhRtEMCkEemEJcXpCGj6gw" presentationName="Editing" briefDescription="BTM BOK results froms FLOS materials whose edition is based on Eclipse Process Framework (EPF)'s core language">
+            <methodElementProperty xmi:id="_vtpVIMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-2vfstflERMEMix8a0B3mUA" href="uma://-2vfstflERMEMix8a0B3mUA#-2vfstflERMEMix8a0B3mUA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_wq7cwMCkEemEJcXpCGj6gw" name="contribution" guid="_wq7cwMCkEemEJcXpCGj6gw" presentationName="Contribution" briefDescription="BTM BOK development relies on the engagement of different knowledgeable people who contribute to the guide's content via applications such as BTM Forum Joomla,, BTM Jomsocial, BTM Forum Project Fork, Tiki Wiki, EPF Wiki, Zotero, Mapping App, LimeSurvey, EPF Composer etc.">
+            <methodElementProperty xmi:id="_xCK4EMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-0l24qm8zEWYqPewN-XPyhw" href="uma://-0l24qm8zEWYqPewN-XPyhw#-0l24qm8zEWYqPewN-XPyhw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_yaWzAMCkEemEJcXpCGj6gw" name="authors" guid="_yaWzAMCkEemEJcXpCGj6gw" presentationName="Authors" briefDescription="BTM BOK is co-authored by the following 3 development roles:&#xD;&#xA;1. The BOK asset designer&#xD;&#xA;2. The BOK asset integrator&#xD;&#xA;3, The BOK asset re-user">
+            <methodElementProperty xmi:id="_yoVkoMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-VV-ZwdkYCDT_Ql0hTlopEw" href="uma://-VV-ZwdkYCDT_Ql0hTlopEw#-VV-ZwdkYCDT_Ql0hTlopEw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_xGSGkMClEemEJcXpCGj6gw" name="operation" guid="_xGSGkMClEemEJcXpCGj6gw" presentationName="Operation">
+            <methodElementProperty xmi:id="_xVHz0MClEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_yEbJ0MClEemEJcXpCGj6gw" name="innovation" guid="_yEbJ0MClEemEJcXpCGj6gw" presentationName="Innovation">
+            <methodElementProperty xmi:id="_ySEkQMClEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_y-bT8MClEemEJcXpCGj6gw" name="performance" guid="_y-bT8MClEemEJcXpCGj6gw" presentationName="Performance">
+            <methodElementProperty xmi:id="_zK_wUMClEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_7Aq9AMCuEemEJcXpCGj6gw" name="web" guid="_7Aq9AMCuEemEJcXpCGj6gw" presentationName="Web">
+            <methodElementProperty xmi:id="_7bhF8MCuEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_foM1cP93EemvmrQda9Gxiw" name="career" guid="_foM1cP93EemvmrQda9Gxiw" presentationName="Career" categorizedElements="_hYRr8P93EemvmrQda9Gxiw _iwSnwP93EemvmrQda9Gxiw _kGrL4P93EemvmrQda9Gxiw">
+            <methodElementProperty xmi:id="_gLa3QP93EemvmrQda9Gxiw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_hYRr8P93EemvmrQda9Gxiw" name="goal" guid="_hYRr8P93EemvmrQda9Gxiw" presentationName="Goal" categorizedElements="_lNx94P93EemvmrQda9Gxiw _mXZRUP93EemvmrQda9Gxiw _oqi_sP93EemvmrQda9Gxiw _px9TsP93EemvmrQda9Gxiw _qzDkUP93EemvmrQda9Gxiw">
+            <methodElementProperty xmi:id="_h2WvEP93EemvmrQda9Gxiw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_iwSnwP93EemvmrQda9Gxiw" name="path" guid="_iwSnwP93EemvmrQda9Gxiw" presentationName="Path" categorizedElements="_sEWNEP93EemvmrQda9Gxiw _tGaHAP93EemvmrQda9Gxiw _uD2msP93EemvmrQda9Gxiw _vHCiAP93EemvmrQda9Gxiw _wJbzIP93EemvmrQda9Gxiw">
+            <methodElementProperty xmi:id="_jHNS8P93EemvmrQda9Gxiw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_kGrL4P93EemvmrQda9Gxiw" name="progression" guid="_kGrL4P93EemvmrQda9Gxiw" presentationName="Progression" categorizedElements="_cVpGQP98EemrPbCfteaqmw _dV30MP98EemrPbCfteaqmw _ep8rMP98EemrPbCfteaqmw _fmzVAP98EemrPbCfteaqmw _gqJoYP98EemrPbCfteaqmw">
+            <methodElementProperty xmi:id="_kWo6gP93EemvmrQda9Gxiw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_lNx94P93EemvmrQda9Gxiw" name="specialist" guid="_lNx94P93EemvmrQda9Gxiw" presentationName="Specialist">
+            <methodElementProperty xmi:id="_lgrrwP93EemvmrQda9Gxiw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_mXZRUP93EemvmrQda9Gxiw" name="complement" guid="_mXZRUP93EemvmrQda9Gxiw" presentationName="Complement">
+            <methodElementProperty xmi:id="_mqS_MP93EemvmrQda9Gxiw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_oqi_sP93EemvmrQda9Gxiw" name="generalist" guid="_oqi_sP93EemvmrQda9Gxiw" presentationName="Generalist">
+            <methodElementProperty xmi:id="_o8sfoP93EemvmrQda9Gxiw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_px9TsP93EemvmrQda9Gxiw" name="senior" guid="_px9TsP93EemvmrQda9Gxiw" presentationName="Senior">
+            <methodElementProperty xmi:id="_qC89EP93EemvmrQda9Gxiw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_qzDkUP93EemvmrQda9Gxiw" name="occasional" guid="_qzDkUP93EemvmrQda9Gxiw" presentationName="Occasional">
+            <methodElementProperty xmi:id="_rDcwwP93EemvmrQda9Gxiw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_sEWNEP93EemvmrQda9Gxiw" name="corporate" guid="_sEWNEP93EemvmrQda9Gxiw" presentationName="Corporate">
+            <methodElementProperty xmi:id="_sTNIcP93EemvmrQda9Gxiw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_tGaHAP93EemvmrQda9Gxiw" name="embedded" guid="_tGaHAP93EemvmrQda9Gxiw" presentationName="Embedded">
+            <methodElementProperty xmi:id="_tVOmIP93EemvmrQda9Gxiw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_uD2msP93EemvmrQda9Gxiw" name="small" guid="_uD2msP93EemvmrQda9Gxiw" presentationName="Small">
+            <methodElementProperty xmi:id="_uRzjIP93EemvmrQda9Gxiw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_vHCiAP93EemvmrQda9Gxiw" name="startup" guid="_vHCiAP93EemvmrQda9Gxiw" presentationName="Startup">
+            <methodElementProperty xmi:id="_vVaVMP93EemvmrQda9Gxiw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_wJbzIP93EemvmrQda9Gxiw" name="consulting" guid="_wJbzIP93EemvmrQda9Gxiw" presentationName="Consulting">
+            <methodElementProperty xmi:id="_wZTbIP93EemvmrQda9Gxiw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_cVpGQP98EemrPbCfteaqmw" name="beginning" guid="_cVpGQP98EemrPbCfteaqmw" presentationName="Beginning">
+            <methodElementProperty xmi:id="_cnd2EP98EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_dV30MP98EemrPbCfteaqmw" name="diversity" guid="_dV30MP98EemrPbCfteaqmw" presentationName="Diversity">
+            <methodElementProperty xmi:id="_dkOZQP98EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_ep8rMP98EemrPbCfteaqmw" name="education" guid="_ep8rMP98EemrPbCfteaqmw" presentationName="Education">
+            <methodElementProperty xmi:id="_e4NwsP98EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_fmzVAP98EemrPbCfteaqmw" name="experience" guid="_fmzVAP98EemrPbCfteaqmw" presentationName="Experience">
+            <methodElementProperty xmi:id="_f0fywP98EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_gqJoYP98EemrPbCfteaqmw" name="promotion" guid="_gqJoYP98EemrPbCfteaqmw" presentationName="Promotion">
+            <methodElementProperty xmi:id="_g5nnwP98EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_iRahIP98EemrPbCfteaqmw" name="standard" guid="_iRahIP98EemrPbCfteaqmw" presentationName="Standard" categorizedElements="_jUHUQP98EemrPbCfteaqmw _1ae8YP9_EemrPbCfteaqmw _-mxFwP9_EemrPbCfteaqmw">
+            <methodElementProperty xmi:id="_iiitYP98EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_jUHUQP98EemrPbCfteaqmw" name="accreditation" guid="_jUHUQP98EemrPbCfteaqmw" presentationName="Accreditation" categorizedElements="_3F58YP9_EemrPbCfteaqmw _4GEY4P9_EemrPbCfteaqmw _5MvGAP9_EemrPbCfteaqmw _6Ib5QP9_EemrPbCfteaqmw _7ECl4P9_EemrPbCfteaqmw">
+            <methodElementProperty xmi:id="_jl2kgP98EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_1ae8YP9_EemrPbCfteaqmw" name="benchmark" guid="_1ae8YP9_EemrPbCfteaqmw" presentationName="Benchmark" categorizedElements="_9Y0r8P9_EemrPbCfteaqmw _A4wWgP-AEemrPbCfteaqmw _CZ2V0P-AEemrPbCfteaqmw _Hj3-UAScEeqsTeO17jouqQ _I0gfwAScEeqsTeO17jouqQ">
+            <methodElementProperty xmi:id="_1yksQP9_EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_3F58YP9_EemrPbCfteaqmw" name="diploma" guid="_3F58YP9_EemrPbCfteaqmw" presentationName="Diploma">
+            <methodElementProperty xmi:id="_3Y4iwP9_EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_4GEY4P9_EemrPbCfteaqmw" name="certificate" guid="_4GEY4P9_EemrPbCfteaqmw" presentationName="Certificate">
+            <methodElementProperty xmi:id="_4bZvsP9_EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_5MvGAP9_EemrPbCfteaqmw" name="bachelor" guid="_5MvGAP9_EemrPbCfteaqmw" presentationName="Bachelor">
+            <methodElementProperty xmi:id="_5dmMgP9_EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_6Ib5QP9_EemrPbCfteaqmw" name="master" guid="_6Ib5QP9_EemrPbCfteaqmw" presentationName="Master">
+            <methodElementProperty xmi:id="_6Yu_EP9_EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_7ECl4P9_EemrPbCfteaqmw" name="doctorate" guid="_7ECl4P9_EemrPbCfteaqmw" presentationName="Doctorate">
+            <methodElementProperty xmi:id="_7Ty5IP9_EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_9Y0r8P9_EemrPbCfteaqmw" name="forerunner" guid="_9Y0r8P9_EemrPbCfteaqmw" presentationName="Forerunner">
+            <methodElementProperty xmi:id="_9snxsP9_EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_-mxFwP9_EemrPbCfteaqmw" name="certification" guid="_-mxFwP9_EemrPbCfteaqmw" presentationName="Certification" categorizedElements="_GCCkgP-AEemrPbCfteaqmw _G-bUQP-AEemrPbCfteaqmw _IOX5MP-AEemrPbCfteaqmw _JaiKUP-AEemrPbCfteaqmw _KkFzYP-AEemrPbCfteaqmw">
+            <methodElementProperty xmi:id="_-18KMP9_EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_A4wWgP-AEemrPbCfteaqmw" name="challenger" guid="_A4wWgP-AEemrPbCfteaqmw" presentationName="Challenger">
+            <methodElementProperty xmi:id="_BdtdsP-AEemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_CZ2V0P-AEemrPbCfteaqmw" name="innovator" guid="_CZ2V0P-AEemrPbCfteaqmw" presentationName="Innovator">
+            <methodElementProperty xmi:id="_CpKkMP-AEemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_GCCkgP-AEemrPbCfteaqmw" name="associate" guid="_GCCkgP-AEemrPbCfteaqmw" presentationName="Associate">
+            <methodElementProperty xmi:id="_GSn-MP-AEemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_G-bUQP-AEemrPbCfteaqmw" name="professional" guid="_G-bUQP-AEemrPbCfteaqmw" presentationName="Professional">
+            <methodElementProperty xmi:id="_Hc8cQP-AEemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_IOX5MP-AEemrPbCfteaqmw" name="manager" guid="_IOX5MP-AEemrPbCfteaqmw" presentationName="Manager">
+            <methodElementProperty xmi:id="_IejqQP-AEemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_JaiKUP-AEemrPbCfteaqmw" name="entrepreneur" guid="_JaiKUP-AEemrPbCfteaqmw" presentationName="Entrepreneur">
+            <methodElementProperty xmi:id="_Jp1xoP-AEemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_KkFzYP-AEemrPbCfteaqmw" name="executive" guid="_KkFzYP-AEemrPbCfteaqmw" presentationName="Executive">
+            <methodElementProperty xmi:id="_Kz7mMP-AEemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Hj3-UAScEeqsTeO17jouqQ" name="optimizer" guid="_Hj3-UAScEeqsTeO17jouqQ" presentationName="Optimizer">
+            <methodElementProperty xmi:id="_H8WvwAScEeqsTeO17jouqQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_I0gfwAScEeqsTeO17jouqQ" name="disruptor" guid="_I0gfwAScEeqsTeO17jouqQ" presentationName="Disruptor">
+            <methodElementProperty xmi:id="_JIBRoAScEeqsTeO17jouqQ" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_OFbM7MCaEemEJcXpCGj6gw" name="CoreContent" guid="_OFbM7MCaEemEJcXpCGj6gw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_S_WJMMCaEemEJcXpCGj6gw" name="governance" guid="_S_WJMMCaEemEJcXpCGj6gw" presentationName="Governance">
+          <methodElementProperty xmi:id="_S_WJMcCaEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_esQxYMCcEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_vAqM8MCcEemEJcXpCGj6gw" name="compliance" guid="_vAqM8MCcEemEJcXpCGj6gw" presentationName="Compliance">
+          <methodElementProperty xmi:id="_vAqM8cCcEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_vQy6sMCcEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_weGbUMCcEemEJcXpCGj6gw" name="architecture" guid="_weGbUMCcEemEJcXpCGj6gw" presentationName="Architecture">
+          <methodElementProperty xmi:id="_weGbUcCcEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_wts9kMCcEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xmQ9QMCcEemEJcXpCGj6gw" name="security" guid="_xmQ9QMCcEemEJcXpCGj6gw" presentationName="Security" briefDescription="Security&#xD;&#xA;">
+          <methodElementProperty xmi:id="_xmQ9QcCcEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_xzNNEMCcEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_zsUDwMCcEemEJcXpCGj6gw" name="platform" guid="_zsUDwMCcEemEJcXpCGj6gw" presentationName="Platform">
+          <methodElementProperty xmi:id="_zsUDwcCcEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_z4_04MCcEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_001yEMCcEemEJcXpCGj6gw" name="people" guid="_001yEMCcEemEJcXpCGj6gw" presentationName="People">
+          <methodElementProperty xmi:id="_001yEcCcEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_1CdXUMCcEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_1zmgYMCcEemEJcXpCGj6gw" name="project" guid="_1zmgYMCcEemEJcXpCGj6gw" presentationName="Project">
+          <methodElementProperty xmi:id="_1zmgYcCcEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_2AH5cMCcEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2vruIMCcEemEJcXpCGj6gw" name="agility" guid="_2vruIMCcEemEJcXpCGj6gw" presentationName="Agility">
+          <methodElementProperty xmi:id="_2vruIcCcEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_2_JGcMCcEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_33GpMMCcEemEJcXpCGj6gw" name="engineering" guid="_33GpMMCcEemEJcXpCGj6gw" presentationName="Engineering">
+          <methodElementProperty xmi:id="_33GpMcCcEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_4DCzcMCcEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_40dpUMCcEemEJcXpCGj6gw" name="integration" guid="_40dpUMCcEemEJcXpCGj6gw" presentationName="Integration">
+          <methodElementProperty xmi:id="_40dpUcCcEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_5BD64MCcEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_59KWwMCcEemEJcXpCGj6gw" name="value" guid="_59KWwMCcEemEJcXpCGj6gw" presentationName="Value">
+          <methodElementProperty xmi:id="_59KWwcCcEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_6M74IMCcEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_68IgcMCcEemEJcXpCGj6gw" name="process" guid="_68IgcMCcEemEJcXpCGj6gw" presentationName="Process">
+          <methodElementProperty xmi:id="_68IgccCcEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_7H8H0MCcEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_71l4AMCcEemEJcXpCGj6gw" name="rule" guid="_71l4AMCcEemEJcXpCGj6gw" presentationName="Rule">
+          <methodElementProperty xmi:id="_71l4AcCcEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_8BN5MMCcEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8wjEYMCcEemEJcXpCGj6gw" name="data" guid="_8wjEYMCcEemEJcXpCGj6gw" presentationName="Data">
+          <methodElementProperty xmi:id="_8wjEYcCcEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_9BJFIMCcEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_9vmGkMCcEemEJcXpCGj6gw" name="intelligence" guid="_9vmGkMCcEemEJcXpCGj6gw" presentationName="Intelligence">
+          <methodElementProperty xmi:id="_9vmtoMCcEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_-DPbUMCcEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_CJd5wMCxEemEJcXpCGj6gw" name="strategy" guid="_CJd5wMCxEemEJcXpCGj6gw" presentationName="Strategy">
+          <methodElementProperty xmi:id="_CJd5wcCxEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_CZxmoMCxEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_DL8DYMCxEemEJcXpCGj6gw" name="marketing" guid="_DL8DYMCxEemEJcXpCGj6gw" presentationName="Marketing">
+          <methodElementProperty xmi:id="_DL8qcMCxEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_DZnTAMCxEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_EKdhIMCxEemEJcXpCGj6gw" name="operation" guid="_EKdhIMCxEemEJcXpCGj6gw" presentationName="Operation">
+          <methodElementProperty xmi:id="_EKdhIcCxEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_EWcHoMCxEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FNHQ8MCxEemEJcXpCGj6gw" name="innovation" guid="_FNHQ8MCxEemEJcXpCGj6gw" presentationName="Innovation">
+          <methodElementProperty xmi:id="_FNHQ8cCxEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_FYRYEMCxEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_GGJKsMCxEemEJcXpCGj6gw" name="performance" guid="_GGJKsMCxEemEJcXpCGj6gw" presentationName="Performance">
+          <methodElementProperty xmi:id="_GGJKscCxEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_GQHmEMCxEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_G_-8wMCxEemEJcXpCGj6gw" name="talent" guid="_G_-8wMCxEemEJcXpCGj6gw" presentationName="Talent">
+          <methodElementProperty xmi:id="_G_-8wcCxEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_HLBIEMCxEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_H-GK0MCxEemEJcXpCGj6gw" name="learning" guid="_H-GK0MCxEemEJcXpCGj6gw" presentationName="Learning">
+          <methodElementProperty xmi:id="_H-GK0cCxEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_IJI9MMCxEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_I1o20MCxEemEJcXpCGj6gw" name="change" guid="_I1o20MCxEemEJcXpCGj6gw" presentationName="Change">
+          <methodElementProperty xmi:id="_I1o20cCxEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_JAcYoMCxEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Ju2WwMCxEemEJcXpCGj6gw" name="leadership" guid="_Ju2WwMCxEemEJcXpCGj6gw" presentationName="Leadership">
+          <methodElementProperty xmi:id="_Ju2WwcCxEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_J4lhkMCxEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_KjHsUMCxEemEJcXpCGj6gw" name="entrepreneurship" guid="_KjHsUMCxEemEJcXpCGj6gw" presentationName="Entrepreneurship">
+          <methodElementProperty xmi:id="_KjHsUcCxEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_KsRoUMCxEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_LZSfUMCxEemEJcXpCGj6gw" name="system" guid="_LZSfUMCxEemEJcXpCGj6gw" presentationName="System" briefDescription="System&#xD;&#xA;">
+          <methodElementProperty xmi:id="_LZSfUcCxEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_LivWQMCxEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_MsmhUMCxEemEJcXpCGj6gw" name="software" guid="_MsmhUMCxEemEJcXpCGj6gw" presentationName="Software">
+          <methodElementProperty xmi:id="_MsmhUcCxEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_M4UCEMCxEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Nln0AMCxEemEJcXpCGj6gw" name="cloud" guid="_Nln0AMCxEemEJcXpCGj6gw" presentationName="Cloud">
+          <methodElementProperty xmi:id="_Nln0AcCxEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_N199IMCxEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_OhaG0MCxEemEJcXpCGj6gw" name="iot" guid="_OhaG0MCxEemEJcXpCGj6gw" presentationName="IoT">
+          <methodElementProperty xmi:id="_OhaG0cCxEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_Or2cQMCxEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Pbiz0MCxEemEJcXpCGj6gw" name="ai" guid="_Pbiz0MCxEemEJcXpCGj6gw" presentationName="AI">
+          <methodElementProperty xmi:id="_Pbiz0cCxEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_PmVHgMCxEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_h073sCmFEeqJQ8jfN7Fcgw" name="overview" guid="_h073sCmFEeqJQ8jfN7Fcgw" presentationName="Overview">
+          <methodElementProperty xmi:id="_h09s4CmFEeqJQ8jfN7Fcgw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_6ScvcCmFEeqJQ8jfN7Fcgw" name="me_edited" value="true"/>
+          <methodElementProperty xmi:id="_KoS5gCmnEeqnTbsZNHXyXw" name="pakage_supporting" value="true"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_qUJfsCmFEeqJQ8jfN7Fcgw" name="purpose" guid="_qUJfsCmFEeqJQ8jfN7Fcgw" presentationName="Purpose">
+            <methodElementProperty xmi:id="_qUJfsSmFEeqJQ8jfN7Fcgw" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_6SWBwCmFEeqJQ8jfN7Fcgw" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_KoVVwCmnEeqnTbsZNHXyXw" name="pakage_supporting" value="true"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="__S7cYCmpEeqnTbsZNHXyXw" name="objectives" guid="__S7cYCmpEeqnTbsZNHXyXw" presentationName="Objectives">
+              <methodElementProperty xmi:id="_KS3UsCmqEeqnTbsZNHXyXw" name="me_edited" value="true"/>
+              <presentation xmi:id="-fxZmDloHYMa41JT3jHuCJQ" href="uma://-fxZmDloHYMa41JT3jHuCJQ#-fxZmDloHYMa41JT3jHuCJQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_QCRHgCmqEeqnTbsZNHXyXw" name="profession" guid="_QCRHgCmqEeqnTbsZNHXyXw" presentationName="Profession">
+              <methodElementProperty xmi:id="_YyHMgCmqEeqnTbsZNHXyXw" name="me_edited" value="true"/>
+              <presentation xmi:id="-Zl13WDXzUVYC5vdDHX-kUg" href="uma://-Zl13WDXzUVYC5vdDHX-kUg#-Zl13WDXzUVYC5vdDHX-kUg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_Skl6UCmqEeqnTbsZNHXyXw" name="adoption" guid="_Skl6UCmqEeqnTbsZNHXyXw" presentationName="Adoption">
+              <methodElementProperty xmi:id="_Yx4jACmqEeqnTbsZNHXyXw" name="me_edited" value="true"/>
+              <presentation xmi:id="-dKwMe_TxmkSgHhJKUmxYsw" href="uma://-dKwMe_TxmkSgHhJKUmxYsw#-dKwMe_TxmkSgHhJKUmxYsw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_87n4ECn8EeqnTbsZNHXyXw" name="customization" guid="_87n4ECn8EeqnTbsZNHXyXw" presentationName="Customization ">
+              <methodElementProperty xmi:id="_CWMqYCn9EeqnTbsZNHXyXw" name="me_edited" value="true"/>
+              <presentation xmi:id="--JJ-70pK87XJM1BDXjl3og" href="uma://--JJ-70pK87XJM1BDXjl3og#--JJ-70pK87XJM1BDXjl3og"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_ANss0Cn9EeqnTbsZNHXyXw" name="community" guid="_ANss0Cn9EeqnTbsZNHXyXw" presentationName="Community">
+              <methodElementProperty xmi:id="_CWBEMCn9EeqnTbsZNHXyXw" name="me_edited" value="true"/>
+              <presentation xmi:id="-_35xtK6yYRrWlHajnOWo6Q" href="uma://-_35xtK6yYRrWlHajnOWo6Q#-_35xtK6yYRrWlHajnOWo6Q"/>
+            </contentElements>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_tcgXwCmFEeqJQ8jfN7Fcgw" name="contents" guid="_tcgXwCmFEeqJQ8jfN7Fcgw" presentationName="Contents">
+            <methodElementProperty xmi:id="_tcgXwSmFEeqJQ8jfN7Fcgw" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_6SM30CmFEeqJQ8jfN7Fcgw" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_KoV80CmnEeqnTbsZNHXyXw" name="pakage_supporting" value="true"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_vSiw0CqMEeqJqa-iUQrjOA" name="metamodel" guid="_vSiw0CqMEeqJqa-iUQrjOA" presentationName="Metamodel">
+              <methodElementProperty xmi:id="_JdJcgCqNEeqJqa-iUQrjOA" name="me_edited" value="true"/>
+              <presentation xmi:id="-QB4uH97xnJY_oRfsg8KQeA" href="uma://-QB4uH97xnJY_oRfsg8KQeA#-QB4uH97xnJY_oRfsg8KQeA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_x_L9QCqMEeqJqa-iUQrjOA" name="structure" guid="_x_L9QCqMEeqJqa-iUQrjOA" presentationName="Structure">
+              <methodElementProperty xmi:id="_JdBgsCqNEeqJqa-iUQrjOA" name="me_edited" value="true"/>
+              <presentation xmi:id="-y-zSJh9cXoKSiUzkO0kTVA" href="uma://-y-zSJh9cXoKSiUzkO0kTVA#-y-zSJh9cXoKSiUzkO0kTVA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_3MV-oCqMEeqJqa-iUQrjOA" name="components" guid="_3MV-oCqMEeqJqa-iUQrjOA" presentationName="Components">
+              <methodElementProperty xmi:id="_Jc6L8CqNEeqJqa-iUQrjOA" name="me_edited" value="true"/>
+              <presentation xmi:id="-BfYJu8MHJfKcuM8lcYlARg" href="uma://-BfYJu8MHJfKcuM8lcYlARg#-BfYJu8MHJfKcuM8lcYlARg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_CK26oCqNEeqJqa-iUQrjOA" name="dependencies" guid="_CK26oCqNEeqJqa-iUQrjOA" presentationName="Dependencies">
+              <methodElementProperty xmi:id="_Jcy3MCqNEeqJqa-iUQrjOA" name="me_edited" value="true"/>
+              <presentation xmi:id="-YN5TGUpsnKAax2iCfSntzA" href="uma://-YN5TGUpsnKAax2iCfSntzA#-YN5TGUpsnKAax2iCfSntzA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_HCxEwCqNEeqJqa-iUQrjOA" name="sources" guid="_HCxEwCqNEeqJqa-iUQrjOA" presentationName="Sources">
+              <methodElementProperty xmi:id="_JcptQCqNEeqJqa-iUQrjOA" name="me_edited" value="true"/>
+              <presentation xmi:id="-9No37XcCUP00x_AnFTX0wg" href="uma://-9No37XcCUP00x_AnFTX0wg#-9No37XcCUP00x_AnFTX0wg"/>
+            </contentElements>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xtu8YCmFEeqJQ8jfN7Fcgw" name="methodology" guid="_xtu8YCmFEeqJQ8jfN7Fcgw" presentationName="Methodology">
+            <methodElementProperty xmi:id="_xtvjcCmFEeqJQ8jfN7Fcgw" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_6R2SgCmFEeqJQ8jfN7Fcgw" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_KoV80SmnEeqnTbsZNHXyXw" name="pakage_supporting" value="true"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_kah14CrCEeqUTZ_iLgxpGw" name="licenses" guid="_kah14CrCEeqUTZ_iLgxpGw" presentationName="Licenses">
+              <methodElementProperty xmi:id="_rIimACrCEeqUTZ_iLgxpGw" name="me_edited" value="true"/>
+              <presentation xmi:id="-X_JmqCTPFGjXkZK6uKGs2A" href="uma://-X_JmqCTPFGjXkZK6uKGs2A#-X_JmqCTPFGjXkZK6uKGs2A"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_LFt_kCsLEeqEwL-I9ZZdpA" name="references" guid="_LFt_kCsLEeqEwL-I9ZZdpA" presentationName="References">
+              <methodElementProperty xmi:id="_p_we8CtEEeqEwL-I9ZZdpA" name="me_edited" value="true"/>
+              <presentation xmi:id="-zexDzq6xjzDq0gtu_-A9jw" href="uma://-zexDzq6xjzDq0gtu_-A9jw#-zexDzq6xjzDq0gtu_-A9jw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_PB-QkCtJEeqEwL-I9ZZdpA" name="editing" guid="_PB-QkCtJEeqEwL-I9ZZdpA" presentationName="Editing">
+              <methodElementProperty xmi:id="_vldJ4CtJEeqEwL-I9ZZdpA" name="me_edited" value="true"/>
+              <presentation xmi:id="-m91q3BbiIWSeHpekDBIShg" href="uma://-m91q3BbiIWSeHpekDBIShg#-m91q3BbiIWSeHpekDBIShg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_6d3PICtPEeqEwL-I9ZZdpA" name="contribution" guid="_6d3PICtPEeqEwL-I9ZZdpA" presentationName="Contribution">
+              <methodElementProperty xmi:id="_mZ64UCtSEeqEwL-I9ZZdpA" name="me_edited" value="true"/>
+              <presentation xmi:id="-yeWwxkL0JLffaSkgd_tClQ" href="uma://-yeWwxkL0JLffaSkgd_tClQ#-yeWwxkL0JLffaSkgd_tClQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_u6OoUCtZEeqEwL-I9ZZdpA" name="authors" guid="_u6OoUCtZEeqEwL-I9ZZdpA" presentationName="Authors">
+              <methodElementProperty xmi:id="_-G2uECtaEeqEwL-I9ZZdpA" name="me_edited" value="true"/>
+              <presentation xmi:id="-U_2ky3bQNorT2jMdaG5chg" href="uma://-U_2ky3bQNorT2jMdaG5chg#-U_2ky3bQNorT2jMdaG5chg"/>
+            </contentElements>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_OFbz8MCaEemEJcXpCGj6gw" name="CapabilityPatterns" guid="_OFbz8MCaEemEJcXpCGj6gw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_56N20MCkEemEJcXpCGj6gw" name="Fabric" guid="_56N20MCkEemEJcXpCGj6gw">
+          <methodElementProperty xmi:id="_56N20cCkEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_7EHeIMCkEemEJcXpCGj6gw" name="Governance" guid="_7EHeIMCkEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_7EIFMMCkEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_7-UckMCkEemEJcXpCGj6gw" name="Compliance" guid="_7-UckMCkEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_7-UckcCkEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_80sD4MCkEemEJcXpCGj6gw" name="Architecture" guid="_80sD4MCkEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_80sD4cCkEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_9nQwUMCkEemEJcXpCGj6gw" name="Security" guid="_9nQwUMCkEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_9nQwUcCkEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_-Z7jYMCkEemEJcXpCGj6gw" name="Platform" guid="_-Z7jYMCkEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_-Z7jYcCkEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          </childPackages>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="__P9zgMCkEemEJcXpCGj6gw" name="Team" guid="__P9zgMCkEemEJcXpCGj6gw">
+          <methodElementProperty xmi:id="__P9zgcCkEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_AHQA0MClEemEJcXpCGj6gw" name="People" guid="_AHQA0MClEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_AHQA0cClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_A-GwUMClEemEJcXpCGj6gw" name="Project" guid="_A-GwUMClEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_A-GwUcClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Bxy3EMClEemEJcXpCGj6gw" name="Agility" guid="_Bxy3EMClEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_Bxy3EcClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Ce3_gMClEemEJcXpCGj6gw" name="Engineering" guid="_Ce3_gMClEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_Ce3_gcClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_DhX-UMClEemEJcXpCGj6gw" name="Integration" guid="_DhX-UMClEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_DhYlYMClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          </childPackages>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_EWIcEMClEemEJcXpCGj6gw" name="Outcome" guid="_EWIcEMClEemEJcXpCGj6gw">
+          <methodElementProperty xmi:id="_EWJDIMClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_FFUdUMClEemEJcXpCGj6gw" name="Value" guid="_FFUdUMClEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_FFUdUcClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_GCUREMClEemEJcXpCGj6gw" name="Process" guid="_GCUREMClEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_GCUREcClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Gxg5YMClEemEJcXpCGj6gw" name="Rule" guid="_Gxg5YMClEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_Gxg5YcClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_HhhaAMClEemEJcXpCGj6gw" name="Data" guid="_HhhaAMClEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_HhhaAcClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_ITaxAMClEemEJcXpCGj6gw" name="Intelligence" guid="_ITaxAMClEemEJcXpCGj6gw">
+            <methodElementProperty xmi:id="_ITaxAcClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_OFbz8cCaEemEJcXpCGj6gw" name="DeliveryProcesses" guid="_OFbz8cCaEemEJcXpCGj6gw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_TZtI8MClEemEJcXpCGj6gw" name="Scope" guid="_TZtI8MClEemEJcXpCGj6gw">
+        <methodElementProperty xmi:id="_TZtI8cClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_aW_EIMClEemEJcXpCGj6gw" name="Administration" guid="_aW_EIMClEemEJcXpCGj6gw">
+          <methodElementProperty xmi:id="_aW_EIcClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_bIWPoMClEemEJcXpCGj6gw" name="Solution" guid="_bIWPoMClEemEJcXpCGj6gw">
+          <methodElementProperty xmi:id="_bIWPocClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_b3oXgMClEemEJcXpCGj6gw" name="Support" guid="_b3oXgMClEemEJcXpCGj6gw">
+          <methodElementProperty xmi:id="_b3oXgcClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_cqBdwMClEemEJcXpCGj6gw" name="Facility" guid="_cqBdwMClEemEJcXpCGj6gw">
+          <methodElementProperty xmi:id="_cqBdwcClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_dZX3EMClEemEJcXpCGj6gw" name="Enterprise" guid="_dZX3EMClEemEJcXpCGj6gw">
+          <methodElementProperty xmi:id="_dZX3EcClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_UTqPwMClEemEJcXpCGj6gw" name="Focus" guid="_UTqPwMClEemEJcXpCGj6gw">
+        <methodElementProperty xmi:id="_UTqPwcClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_eMTv4MClEemEJcXpCGj6gw" name="Behavior" guid="_eMTv4MClEemEJcXpCGj6gw">
+          <methodElementProperty xmi:id="_eMUW8MClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_fBBxYMClEemEJcXpCGj6gw" name="Functionality" guid="_fBBxYMClEemEJcXpCGj6gw">
+          <methodElementProperty xmi:id="_fBBxYcClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_fzE5YMClEemEJcXpCGj6gw" name="Reengineering" guid="_fzE5YMClEemEJcXpCGj6gw">
+          <methodElementProperty xmi:id="_fzE5YcClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_gglfoMClEemEJcXpCGj6gw" name="Optimization" guid="_gglfoMClEemEJcXpCGj6gw">
+          <methodElementProperty xmi:id="_gglfocClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_hYkQgMClEemEJcXpCGj6gw" name="Diversification" guid="_hYkQgMClEemEJcXpCGj6gw">
+          <methodElementProperty xmi:id="_hYk3kMClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_VWT_kMClEemEJcXpCGj6gw" name="Sector" guid="_VWT_kMClEemEJcXpCGj6gw">
+        <methodElementProperty xmi:id="_VWT_kcClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_iRrp0MClEemEJcXpCGj6gw" name="Resource" guid="_iRrp0MClEemEJcXpCGj6gw">
+          <methodElementProperty xmi:id="_iRsQ4MClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_jK2tgMClEemEJcXpCGj6gw" name="Infrastructure" guid="_jK2tgMClEemEJcXpCGj6gw">
+          <methodElementProperty xmi:id="_jK2tgcClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_j_B8cMClEemEJcXpCGj6gw" name="Product" guid="_j_B8cMClEemEJcXpCGj6gw">
+          <methodElementProperty xmi:id="_j_B8ccClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_kyKCgMClEemEJcXpCGj6gw" name="Service" guid="_kyKCgMClEemEJcXpCGj6gw">
+          <methodElementProperty xmi:id="_kyKCgcClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_lnbdoMClEemEJcXpCGj6gw" name="Public" guid="_lnbdoMClEemEJcXpCGj6gw">
+          <methodElementProperty xmi:id="_lncEsMClEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
+        </childPackages>
+      </childPackages>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_OFbz8sCaEemEJcXpCGj6gw" name="ProcessContributions" guid="_OFbz8sCaEemEJcXpCGj6gw"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>
